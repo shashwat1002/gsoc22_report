@@ -13,7 +13,7 @@ I was tasked with porting the whole module to Rust. My contributions can be summ
 
 I will be talking about the work involved in each of the divisions on a section by section basis.
 
-All PR's for ccextractor: https://github.com/CCExtractor/ccextractor/pulls?q=is%3Apr+author%3A%40me
+All PR's for ccextractor: https://github.com/CCExtractor/ccextractor/pulls?q=is%3Apr+author%3Ashashwat1002+
 
 # Contributions
 
